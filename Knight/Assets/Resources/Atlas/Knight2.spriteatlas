@@ -45,38 +45,38 @@ SpriteAtlas:
     secondaryTextureSettings: {}
     variantMultiplier: 1
     packables:
-    - {fileID: 102900000, guid: 0bf4e3f3f1a683146b42dcefd2862bc4, type: 3}
+    - {fileID: 102900000, guid: 79a5b723b4591a04dbd43ca136eca409, type: 3}
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
-  - {fileID: 21300000, guid: 09785381823547248b7414ea8e59e0e0, type: 3}
-  - {fileID: 21300000, guid: 0f4aa213e2f55a446be7836ba8d1fee6, type: 3}
-  - {fileID: 21300000, guid: 17c39373260571644b4a15f3825d89f3, type: 3}
-  - {fileID: 21300000, guid: 86c308c4aae62c844bdd0291e4b5d35a, type: 3}
-  - {fileID: 21300000, guid: 2960596649189f5408fcfb89c134152e, type: 3}
-  - {fileID: 21300000, guid: a6e735b786eb87a4b8bed49c045c7a7f, type: 3}
-  - {fileID: 21300000, guid: 72b629b829642584388b9097e3638671, type: 3}
-  - {fileID: 21300000, guid: 542baeb90ef2aa74eba854a7c15d4099, type: 3}
-  - {fileID: 21300000, guid: 1f65352a8dab34740a84a4fadc03ce93, type: 3}
-  - {fileID: 21300000, guid: 99aeba5a3f64be54d8101f1cdd423cdc, type: 3}
-  - {fileID: 21300000, guid: b9cf852c8093589409b1dc3644f7caaa, type: 3}
-  - {fileID: 21300000, guid: a2a20d9d7256085408c648cc890c84a4, type: 3}
+  - {fileID: 21300000, guid: 16f2ef417ea7c82448d9a84685415f9d, type: 3}
+  - {fileID: 21300000, guid: a01b0b716dad9bb48b46a660cffb1bb2, type: 3}
+  - {fileID: 21300000, guid: 221d11036e7c464478545fbb27daefff, type: 3}
+  - {fileID: 21300000, guid: f134a943cdd74c245a33240e2fd1ef65, type: 3}
+  - {fileID: 21300000, guid: de5a1cf352e66e14d8781c45188260b1, type: 3}
+  - {fileID: 21300000, guid: b303d975ecb1d3f48845553b032dee20, type: 3}
+  - {fileID: 21300000, guid: e160d0a537f7cdc4e9e09c731c7e61de, type: 3}
+  - {fileID: 21300000, guid: a0d3d8c56bc99dd4aa6d245149248a21, type: 3}
+  - {fileID: 21300000, guid: 9a949808cebb8794eb2d30fa202c807e, type: 3}
+  - {fileID: 21300000, guid: b97b9f48d04fd444c8012b3f9076c193, type: 3}
+  - {fileID: 21300000, guid: 4e316de8b919ba341a02f5165055b61c, type: 3}
+  - {fileID: 21300000, guid: 29bd8d498e5e7d24b85fc4a00688daf4, type: 3}
   m_PackedSpriteNamesToIndex:
   - Dead
-  - Attack 1
-  - Attack 2
-  - Run
-  - Run+Attack
-  - Idle
-  - Attack 3
   - Protect
-  - Walk
+  - Idle
+  - Attack 2
+  - Attack 1
   - Defend
+  - Attack 3
   - Hurt
+  - Run+Attack
+  - Run
+  - Walk
   - Jump
   m_RenderDataMap: {}
-  m_Tag: Knight
+  m_Tag: Knight2
   m_IsVariant: 0
   m_IsPlaceholder: 0
